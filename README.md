@@ -11,5 +11,6 @@ build the gatling jar:
 
 run the gatling jar:
 
-	chmod +x target/run.sh
+	cd gatling-jar/target
+	chmod +x run.sh
 	./run.sh
