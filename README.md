@@ -7,6 +7,7 @@ Based on
 
 build the gatling jar:
 
+	cd gatling-jar/
 	mvn clean install
 
 run the gatling jar:
